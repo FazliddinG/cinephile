@@ -1,0 +1,1 @@
+import{_ as e}from"./ListContent-fd5fbb5e.js";import{o as a,c as o,a as s}from"./index-f86893b4.js";const t={class:"main"},i={__name:"Films",setup(c){return(_,m)=>(a(),o("main",t,[s(e,{type:"movie"})]))}};export{i as default};
